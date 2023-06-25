@@ -31,7 +31,7 @@ Experience
 Publications
 ======
 
-1. [SketchNE:Embedding Billion-Scale Networks Accurately in One Hour](http://keg.cs.tsinghua.edu.cn/yuxiao/papers/TKDE23-Xie-et-al-SketchNE.pdf)  
+1. [SketchNE: Embedding Billion-Scale Networks Accurately in One Hour](http://keg.cs.tsinghua.edu.cn/yuxiao/papers/TKDE23-Xie-et-al-SketchNE.pdf)  
 ***Yuyang Xie***, Yuxiao Dong, Jiezhong Qiu, Wenjian Yu, Xu Feng, Jie Tang  
 IEEE Transactions on Knowledge and Data Engineering (TKDE), CCF-A, 2023.
 
