@@ -8,8 +8,11 @@ table {
   font-family: $global-font-family;
   font-size: $type-size-6;
   border-collapse: collapse;
-  border: 1px solid $light-gray;
-
+  //border: 1px solid $light-gray;
+  border: none; // 去外边框
+  td, th, tr {
+    border: inherit;  // 去内边框
+  }
   & + table {
     margin-top: 1em;
   }
