@@ -8,6 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
+
+
 I am currently a Ph.D. candidate at the Department of Computer Science and Technology, Tsinghua University, under the supervision of Prof. Wenjian Yu since Fall 2018. Previously, I received my B.S. in the School of Computer Science and Engineering from Northeast University in 2018. My major research interests are about graph representation learning, randomized matrix decomposition, and etc.
 
 Education
@@ -53,6 +67,7 @@ in Proceedings of the Fifteenth ACM International Conference on Web Search and D
 6. [Fast Randomized PCA for Sparse Data](http://numbda.cs.tsinghua.edu.cn/papers/acml18.pdf)   
 Xu Feng, ***Yuyang Xie***, Mingye Song, Wenjian Yu, Jie Tang
 in Proceedings of the 10th Asian Conference on Machine Learning (ACML), CCF-C, 2018.
+
 
 Work Experience
 ======
