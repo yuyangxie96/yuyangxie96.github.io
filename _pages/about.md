@@ -8,37 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
-
 
 I am currently a Ph.D. candidate at the Department of Computer Science and Technology, Tsinghua University, under the supervision of Prof. Wenjian Yu since Fall 2018. Previously, I received my B.S. in the School of Computer Science and Engineering from Northeast University in 2018. My major research interests are about graph representation learning, randomized matrix decomposition, and etc.
 
 Education
 ======
 
-| Year            | Education                                                            |
-| --------         |------------------------------------------------------------ |
-| 08/2018-present    |Ph.D. candidate, Department of Computer Science and Technology, Tsinghua University, China.|
-| 09/2014-06/2018   | B.S., School of Computer Science and Engineering, Northeast University, Shenyang.|
+| Year            | Education                                                            |  
+| :--------------- | :-------------------------------------- |  
+| 08/2018-present    |Ph.D. candidate, Department of Computer Science and Technology, Tsinghua University, China.|  
+| 09/2014-06/2018   | B.S., School of Computer Science and Engineering, Northeast University, Shenyang.|  
 
 <!--
 Experience
 ======
-| Year            | Experience                                                            |
-| --------         |------------------------------------------------------------ |
-| 08/2018-present    |Ph.D. candidate, Department of Computer Science and Technology, Tsinghua University, China.|
-| 09/2014-06/2018   | B.S., School of Computer Science and Engineering, Northeast University, Shenyang.|
+| Year            | Experience                                                            |  
+| :--------------- | :-------------------------------------- |   
+| 08/2018-present    |Ph.D. candidate, Department of Computer Science and Technology, Tsinghua University, China.|  
+| 09/2014-06/2018   | B.S., School of Computer Science and Engineering, Northeast University, Shenyang.|  
 -->
 
 Publications
@@ -71,28 +58,29 @@ in Proceedings of the 10th Asian Conference on Machine Learning (ACML), CCF-C, 2
 
 Work Experience
 ======
-| Year            | Internship Experience                        |
-| --------         |------------------------------------------------------------ |
-| 07/2022-09/2022  |Tencent (Shenzhen), WeChat Pay, Internship.|
-| 07/2021-09/2021  |Tencent (Shenzhen), WeChat Pay, Internship.|
+| Year            | Internship Experience                        |   
+| :--------------- | :-------------------------------------- |   
+| 07/2022-09/2022  |Tencent (Shenzhen), WeChat Pay, Internship.|  
+| 07/2021-09/2021  |Tencent (Shenzhen), WeChat Pay, Internship.|  
 
-| Year            | Teaching Assistant Experience                        |
-| --------         |------------------------------------------------------------ |
-| 02/2023-06/2023  |Teaching Assistant for Numerical Analysis course at Tsinghua University.|
-| 02/2022-06/2022  |Teaching Assistant for Numerical Analysis course at Tsinghua University.|
-| 02/2020-06/2020  |Teaching Assistant for Numerical Analysis course at Tsinghua University.|
-| 02/2019-06/2019  |Teaching Assistant for Numerical Analysis course at Tsinghua University.|
+
+| Year            | Teaching Assistant Experience                        |  
+| :--------------- | :-------------------------------------- |   
+| 02/2023-06/2023  |Teaching Assistant for Numerical Analysis Course at Tsinghua University.|  
+| 02/2022-06/2022  |Teaching Assistant for Numerical Analysis Course at Tsinghua University.|  
+| 02/2020-06/2020  |Teaching Assistant for Numerical Analysis Course at Tsinghua University.|  
+| 02/2019-06/2019  |Teaching Assistant for Numerical Analysis Course at Tsinghua University.|  
 
 Honor and Awards
 ======
-| Year            | Honor&Awards                                                           |
-| --------        |------------------------------------------------------------ |
-| 2022   |Outstanding Teaching Assistant Award of Tsinghua University.|
-| 2022   |Tsinghua Friendship-Pukou Elite Second-class Scholarship.|
-| 2017   |CCF Outstanding Undergraduate Award. [(About 100 places per year in the Nation wide)](https://www.ccf.org.cn/Awards/Awards/2017-07-31/602612.shtml).|
-|2016|Honorable Mention, MCM/ICM 2016.|
-| 2016  |National Scholarship, NEU [(Top 2%)](http://www.moe.gov.cn/srcsite/A05/s7505/201612/t20161230_293528.html)|
-| 2015  |National Scholarship, NEU [(Top 2%)](http://www.moe.gov.cn/srcsite/A05/s7505/201601/t20160120_228481.html)|
+| Year            | Honor&Awards                                                           |  
+| :--------------- | :-------------------------------------- |   
+| 2022   |Outstanding Teaching Assistant Award of Tsinghua University.|  
+| 2022   |Tsinghua Friendship-Pukou Elite Second-class Scholarship.|  
+| 2017   |CCF Outstanding Undergraduate Award. [(About 100 places per year in the Nation wide)](https://www.ccf.org.cn/Awards/Awards/2017-07-31/602612.shtml).|  
+|2016|Honorable Mention, MCM/ICM 2016.|  
+| 2016  |National Scholarship, NEU [(Top 2%)](http://www.moe.gov.cn/srcsite/A05/s7505/201612/t20161230_293528.html)|  
+| 2015  |National Scholarship, NEU [(Top 2%)](http://www.moe.gov.cn/srcsite/A05/s7505/201601/t20160120_228481.html)|  
 
 <!--
 More
