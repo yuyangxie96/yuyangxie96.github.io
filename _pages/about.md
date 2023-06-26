@@ -17,7 +17,7 @@ Education
 | Year            | Education                                                            |  
 | :--------------- | :-------------------------------------- |  
 | 08/2018-present    |Ph.D. candidate, Department of Computer Science and Technology, Tsinghua University, China.|  
-| 09/2014-06/2018   | B.S., School of Computer Science and Engineering, Northeast University, Shenyang.|  
+| 09/2014-06/2018   | B.S., School of Computer Science and Engineering, Northeast University, China.|  
 
 <!--
 Experience
