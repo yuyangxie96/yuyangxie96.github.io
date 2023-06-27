@@ -45,7 +45,7 @@ in Proceedings of the 34th IEEE International Conference on Tools with Artificia
 
 4. [Pass-Efficient Randomized SVD With Boosted Accuracy](http://numbda.cs.tsinghua.edu.cn/papers/pkdd23.pdf)   
 Xu Feng, Wenjian Yu, ***Yuyang Xie***     
-in Proceedings ofEuropean Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), CCF-B, 2022.
+in Proceedings of European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), CCF-B, 2022.
 
 5. [MonLAD: Money Laundering Agents Detection in Transaction Streams](https://arxiv.org/pdf/2201.10051.pdf)   
 Xiaobing Sun, Wenjie Feng, Shenghua Liu, ***Yuyang Xie***, Siddharth Bhatia, Bryan Hooi, Wenhan Wang, Xueqi Cheng   
