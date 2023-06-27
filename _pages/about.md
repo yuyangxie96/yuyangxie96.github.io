@@ -48,11 +48,11 @@ Xu Feng, Wenjian Yu, ***Yuyang Xie***
 in Proceedings ofEuropean Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), CCF-B, 2022.
 
 5. [MonLAD: Money Laundering Agents Detection in Transaction Streams](https://arxiv.org/pdf/2201.10051.pdf)   
-Xiaobing Sun, Wenjie Feng, Shenghua Liu, ***Yuyang Xie***, Siddharth Bhatia, Bryan Hooi, Wenhan Wang, Xueqi Cheng
+Xiaobing Sun, Wenjie Feng, Shenghua Liu, ***Yuyang Xie***, Siddharth Bhatia, Bryan Hooi, Wenhan Wang, Xueqi Cheng   
 in Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining (WSDM), CCF-B, 2022.
 
 6. [Fast Randomized PCA for Sparse Data](http://numbda.cs.tsinghua.edu.cn/papers/acml18.pdf)   
-Xu Feng, ***Yuyang Xie***, Mingye Song, Wenjian Yu, Jie Tang
+Xu Feng, ***Yuyang Xie***, Mingye Song, Wenjian Yu, Jie Tang   
 in Proceedings of the 10th Asian Conference on Machine Learning (ACML), CCF-C, 2018.
 
 
