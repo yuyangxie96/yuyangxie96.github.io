@@ -77,6 +77,7 @@ Honor and Awards
 
 | Year            | Honor&Awards                                                           |  
 | :--------------- | :-------------------------------------- |   
+| 2023   |LongFor Scholarship-Rising Star Award.|  
 | 2022   |Outstanding Teaching Assistant Award of Tsinghua University.|  
 | 2022   |Tsinghua Friendship-Pukou Elite Second-class Scholarship.|  
 | 2017   |CCF Outstanding Undergraduate Award. [(About 100 places per year in the Nation wide)](https://www.ccf.org.cn/Awards/Awards/2017-07-31/602612.shtml).|  
