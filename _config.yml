@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuyang Xie"
   avatar           : "profile3.jpg"
-  bio              : #"PhD candidate, Department of Computer Science and Technology, Tsinghua University(THU)"
+  bio              : "   "#"PhD candidate, Department of Computer Science and Technology, Tsinghua University(THU)"
   location         : "Tsinghua Science Park, Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
