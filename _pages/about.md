@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+I am currently employed at [Zhipu AI](https://www.zhipuai.cn/) in Beijing, which recently released [ChatGLM](https://chatglm.cn).
+Prior to this, I received my Ph.D. degree in January 2024 at Tsinghua University, under the supervision of Prof. Wenjian Yu from the Department of Computer Science and Technology. My research primarily focused on Large Language Model (LLM) acceleration and performance optimization, along with graph representation learning and randomized matrix decomposition
 
-I am currently a Ph.D. candidate at the Department of Computer Science and Technology, Tsinghua University, under the supervision of Prof. Wenjian Yu since Fall 2018. Previously, I received my B.S. in the School of Computer Science and Engineering from Northeast University in 2018. My major research interests are about graph representation learning, randomized matrix decomposition, and etc.
+
 
 Education
 ======
